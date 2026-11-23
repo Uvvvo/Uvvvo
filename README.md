@@ -20,7 +20,6 @@ Petroleum Engineer and full-stack software developer focused on building computa
 
 - **Core Intersection:** Combining classical petroleum engineering equations (API cementing standards, hydraulics, directional drilling, material balance) with modern web stacks and machine learning.
 - **Current Research:** Developing an AI-integrated web platform for oil well cementing design and hydraulic simulation, alongside reservoir diagenetic studies on the Yamama Formation in Nasiriyah Oilfield.
-- **Leadership & Writing:** Head of the Cultural and Literary Committee and author of philosophical prose and classical Arabic poetry.
 
 ---
 
